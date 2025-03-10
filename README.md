@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/147463764?s=400&u=975fb7f2f757b2b720aca98e51a11f77f2006a43&v=4" alt="HarshitaAppTech Logo" />
+
 # Welcome to HarshitaAppTech 👋
 
 Welcome to **HarshitaAppTech**, where we create cutting-edge mobile applications and software solutions. Our team specializes in innovative tech, mobile development, and providing top-tier user experiences. We are dedicated to building apps that make a difference!
